@@ -1,0 +1,53 @@
+text-center{
+	text-align: center; 
+
+}
+a {
+    color: white;
+}
+
+.btn-black{
+	background-color: black;
+}
+
+.btn-round{
+	border-radius: 50px;
+
+}
+
+.bg-image{
+	background-size: cover;
+	background-image: url('image.jpg');
+	padding-bottom: 200px;
+	padding-top: 200px;
+
+}
+
+.text-white{
+	color: black;
+	text-shadow: 1px 1px 1px white;
+
+}
+
+.margin-top{
+	margin-top: 80px;
+
+}
+
+.marginbottom{
+	margin-bottom: 0px;
+
+}
+
+.navbar-brand{
+	margin-top: -10px;
+}
+
+.bg-image2{
+	background-image: url('bg-image2');
+}
+
+.bg-image3{
+	background-color: black;
+	color: white;
+}
